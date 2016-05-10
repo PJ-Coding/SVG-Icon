@@ -1,0 +1,40 @@
+circle {
+fill: silver;
+stroke: darkgrey;   
+stroke-width: 7px;
+}
+
+line {
+stroke: dodgerblue;
+stroke-width: 5px;
+}
+
+text {
+	font-size: 55px;
+	text-anchor: middle;
+	font-family : 'FilmotypeMajor';
+	stroke: #000;
+	stroke-width:4px;
+	fill: blue; 
+}
+
+#blue {
+	fill: royalblue;
+}
+
+#red {
+	fill:red;
+}
+
+#binar {
+	fill:black;
+	font-size:  17px;
+	font-family: 'FilmotypeMajor';
+	stroke-width: 1px;
+}
+
+polygon {
+	fill: white; 
+	stroke: black;
+	stroke-width: 2px;
+}
